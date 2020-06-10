@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\bin\Debug\Ветвление 10.06 №2.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\bin\Debug\Ветвление 10.06 №2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\bin\Debug\Ветвление 10.06 №2.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление 10.06 №2.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление_10._06__2.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление_10._06__2.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление 10.06 №2.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление 10.06 №2.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление 10.06 №2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Vetvlenie-10.06-2\Ветвление 10.06 №2\Ветвление 10.06 №2\obj\Debug\Ветвление 10.06 №2.pdb
